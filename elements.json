@@ -1,0 +1,6 @@
+{
+    "login_email": "//*[@id=\"mat-input-0\"]",
+    "login_password": "//*[@id=\"mat-input-1\"]",
+    "recaptcha_token": "//*[@id=\"recaptcha-token\"]",
+    "data_site_key_iframe": "/html/body/app-root/div/app-login/section/div/div/mat-card/form/app-captcha-container/div/div/div/iframe" 
+}
